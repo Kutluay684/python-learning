@@ -1,5 +1,5 @@
 # python-learning
-im learning stupid fucking python 
+im learning python 
 we cant use these symbols {} its wild 
  
  
